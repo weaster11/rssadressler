@@ -1,245 +1,245 @@
 # rssadressler
 Haber Sitelerinin Güncel RSS Adresleri
 
-https://www.ntv.com.tr/gundem.rss<br>
-https://www.ntv.com.tr/dunya-kupasi-2018.rss
-https://www.ntv.com.tr/turkiye.rss
-https://www.ntv.com.tr/dunya.rss
-https://www.ntv.com.tr/ekonomi.rss
-https://www.ntv.com.tr/spor.rss
-https://www.ntv.com.tr/teknoloji.rss
-https://www.ntv.com.tr/yasam.rss
-https://www.ntv.com.tr/seyahat.rss
-https://www.ntv.com.tr/saglik.rss
-https://www.ntv.com.tr/sanat.rss
-https://www.ntv.com.tr/otomobil.rss
-https://www.ntv.com.tr/egitim.rss
-https://www.aa.com.tr/tr/rss/default?cat=guncel
-http://www.anayurtgazetesi.com/sondakika.xml
-http://www.cumhuriyet.com.tr/rss/son_dakika.xml
-http://www.cumhuriyet.com.tr/rss/6.xml
-http://www.cumhuriyet.com.tr/rss/17.xml
-http://www.cumhuriyet.com.tr/rss/73.xml
-http://www.cumhuriyet.com.tr/rss/24.xml
-http://www.cumhuriyet.com.tr/rss/32.xml
-http://www.cumhuriyet.com.tr/rss/33.xml
-http://www.cumhuriyet.com.tr/rss/34.xml
-http://www.cumhuriyet.com.tr/rss/35.xml
-http://www.cumhuriyet.com.tr/rss/36.xml
-http://www.cumhuriyet.com.tr/rss/46.xml
-http://www.cumhuriyet.com.tr/rss/70.xml
-http://www.cumhuriyet.com.tr/rss/19.xml
-http://www.cumhuriyet.com.tr/rss/7.xml
-http://www.cumhuriyet.com.tr/rss/14.xml
-http://www.cumhuriyet.com.tr/rss/15.xml
-http://www.cumhuriyet.com.tr/rss/16.xml
-http://www.cumhuriyet.com.tr/rss/20.xml
-http://www.cumhuriyet.com.tr/rss/72.xml
-http://www.cumhuriyet.com.tr/rss/12.xml
-http://www.cumhuriyet.com.tr/rss/3.xml
-http://www.cumhuriyet.com.tr/rss/9.xml
-http://www.cumhuriyet.com.tr/rss/11.xml
-http://www.cumhuriyet.com.tr/rss/10.xml
-https://www.dunya.com/rss?dunya
-http://www.haberturk.com/rss
-http://www.hurriyet.com.tr/rss/anasayfa
-http://www.hurriyet.com.tr/rss/gundem
-http://www.hurriyet.com.tr/rss/ekonomi
-http://www.hurriyet.com.tr/rss/magazin
-http://www.hurriyet.com.tr/rss/spor
-http://www.hurriyet.com.tr/rss/dunya
-http://www.hurriyet.com.tr/rss/teknoloji
-http://www.hurriyet.com.tr/rss/saglik
-http://www.hurriyet.com.tr/rss/astroloji
-http://www.milatgazetesi.com/rss.php
-http://www.milliyet.com.tr/rss/rssNew/magazinRss.xml
-http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml	
-http://www.milliyet.com.tr/rss/rssNew/kitapRss.xml
-http://www.milliyet.com.tr/rss/rssNew/egitimRss.xml
-http://www.milliyet.com.tr/rss/rssNew/dunyaRss.xml
-http://www.milliyet.com.tr/rss/rssNew/ekonomiRss.xml
-http://www.milliyet.com.tr/rss/rssNew/siyasetRss.xml
-http://www.milliyet.com.tr/rss/rssNew/otomobilRss.xml
-http://www.milliyet.com.tr/rss/rssNew/teknolojiRss.xml
-http://www.milliyet.com.tr/rss/rssNew/milliyettatilRss.xml
-http://www.milliyet.com.tr/rss/rssNew/teknolojiRss.xml
-http://www.milliyet.com.tr/rss/rssNew/konutemlakRss.xml
-http://www.milliyet.com.tr/rss/rssNew/aileRss.xml
-http://www.milliyet.com.tr/rss/rssNew/saglikRss.xml
-http://www.milliyet.com.tr/rss/rssNew/yemekRss.xml
-http://www.milliyet.com.tr/rss/rssNew/diyetRss.xml
-http://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml
- https://www.sabah.com.tr/rss/ekonomi.xml
-https://www.sabah.com.tr/rss/spor.xml
-https://www.sabah.com.tr/rss/gundem.xml
-https://www.sabah.com.tr/rss/yasam.xml
-https://www.sabah.com.tr/rss/dunya.xml
-https://www.sabah.com.tr/rss/teknoloji.xml
-https://www.sabah.com.tr/rss/turizm.xml
-https://www.sabah.com.tr/rss/otomobil.xml
-https://www.sabah.com.tr/rss/anasayfa.xml
-https://www.sabah.com.tr/rss/saglik.xml
-https://www.sabah.com.tr/rss/gununicinden.xml
-https://www.sabah.com.tr/rss/sondakika.xml
-https://www.sabah.com.tr/rss/galatasaray.xml
-https://www.sabah.com.tr/rss/fenerbahce.xml
-https://www.sabah.com.tr/rss/besiktas.xml
-https://www.sabah.com.tr/rss/trabzonspor.xml
-https://www.sabah.com.tr/rss/bursaspor.xml
-https://www.sabah.com.tr/rss/kultur-sanat.xml
-https://www.sabah.com.tr/rss/oyun.xml
-https://www.sabah.com.tr/rss/adana.xml
-http://www.star.com.tr/rss/rss.asp
-http://www.star.com.tr/rss/rss.asp?cid=500
-http://www.star.com.tr/rss/rss.asp?cid=13
-http://www.star.com.tr/rss/rss.asp?cid=15
-http://www.star.com.tr/rss/rss.asp?cid=16
-http://www.star.com.tr/rss/rss.asp?cid=17
-http://www.star.com.tr/rss/rss.asp?cid=19
-http://www.star.com.tr/rss/rss.asp?cid=125
-http://www.star.com.tr/rss/rss.asp?cid=223
-http://www.star.com.tr/rss/rss.asp?cid=130
-http://www.star.com.tr/rss/rss.asp?cid=170
-https://www.takvim.com.tr/rss/anasayfa.xml
-https://www.takvim.com.tr/rss/son24saat.xml
-https://www.takvim.com.tr/rss/guncel.xml
-https://www.takvim.com.tr/rss/ekonomi.xml
-https://www.takvim.com.tr/rss/otomobil.xml
-https://www.takvim.com.tr/rss/saklambac.xml
-https://www.takvim.com.tr/rss/spor.xml
-https://www.takvim.com.tr/rss/yasam.xml
-https://www.takvim.com.tr/rss/video.xml
-https://www.takvim.com.tr/rss/televizyon.xml
-http://www.turkiyegazetesi.com.tr/rss/rss.xml
-http://mix.chimpfeedr.com/68482-Vatan-Gazetesi
-https://www.yeniakit.com.tr/rss/haber
-https://www.yeniakit.com.tr/rss/haber/ekonomi
-https://www.yeniakit.com.tr/rss/haber/gunun-mansetleri
-https://www.yeniakit.com.tr/rss/haber/bugunku-akit
-https://www.yeniakit.com.tr/rss/haber/ozel-haber
-https://www.yeniakit.com.tr/rss/haber/gundem
-https://www.yeniakit.com.tr/rss/haber/siyaset
-https://www.yeniakit.com.tr/rss/haber/dunya
-https://www.yeniakit.com.tr/rss/haber/teknoloji
-https://www.yeniakit.com.tr/rss/haber/spor
-https://www.yeniakit.com.tr/rss/haber/aktuel
-https://www.yeniakit.com.tr/rss/haber/kultur-sanat
-https://www.yeniakit.com.tr/rss/haber/otomotiv
-https://www.yeniakit.com.tr/rss/haber/emlak
-https://www.yeniakit.com.tr/rss/haber/saglik
-https://www.yeniakit.com.tr/rss/haber/medya
-https://www.yeniakit.com.tr/rss/haber/yasam
-https://www.yeniakit.com.tr/rss/haber/yerel
-https://www.yeniakit.com.tr/rss/haber/egitim
-https://www.yeniakit.com.tr/rss/video/bilim-teknoloji
-https://www.yeniakit.com.tr/rss/video/15temmuz
-https://www.yeniakit.com.tr/rss/video/cocuk-egitim
-https://www.yeniakit.com.tr/rss/video/dunya
-https://www.yeniakit.com.tr/rss/video/ekonomi
-https://www.yeniakit.com.tr/rss/video/emlak-rehberi
-https://www.yeniakit.com.tr/rss/video/gezi
-https://www.yeniakit.com.tr/rss/video/guncel
-https://www.yeniakit.com.tr/rss/video/gundem
-https://www.yeniakit.com.tr/rss/video/hayat-aktuel
-https://www.yeniakit.com.tr/rss/video/islam
-https://www.yeniakit.com.tr/rss/video/kultur-sanat
-https://www.yeniakit.com.tr/rss/video/medya
-https://www.yeniakit.com.tr/rss/video/ramazan
-https://www.yeniakit.com.tr/rss/video/siyaset
-https://www.yeniakit.com.tr/rss/video/spor
-https://www.yeniakit.com.tr/rss/video/trafik-kazalari
-https://www.yeniakit.com.tr/rss/video/turkiye
-https://www.yeniakit.com.tr/rss/video/yasam
-https://www.yeniakit.com.tr/rss/video/yerel
-https://www.yeniasir.com.tr/rss/anasayfa.xml
-http://www.yenimesaj.com.tr/rss.php
-https://www.yenisafak.com/Rss
-www.yenisafak.com/rss?xml=manset
-www.yenisafak.com/rss?xml=gundem
-www.yenisafak.com/rss?xml=spor
-www.yenisafak.com/rss?xml=ekonomi
-www.yenisafak.com/rss?xml=teknoloji
-www.yenisafak.com/rss?xml=hayat
-www.yenisafak.com/rss?xml=dunya
-www.yenisafak.com/rss?xml=yazarlar
-http://www.yurtgazetesi.com.tr/rss.php
-https://www.ahaber.com.tr/rss/anasayfa.xml
-https://www.ahaber.com.tr/rss/gundem.xml
-https://www.ahaber.com.tr/rss/ekonomi.xml
-https://www.ahaber.com.tr/rss/spor.xml
-https://www.ahaber.com.tr/rss/yasam.xml
-https://www.ahaber.com.tr/rss/dunya.xml
-https://www.ahaber.com.tr/rss/son24saat.xml
-https://www.ahaber.com.tr/rss/teknoloji.xml
-https://www.ahaber.com.tr/rss/magazin.xml
-https://www.ahaber.com.tr/rss/otomobil.xml
-https://www.ahaber.com.tr/rss/haberler.xml
-https://www.ahaber.com.tr/rss/din.xml
-https://www.ahaber.com.tr/rss/tarih.xml
-https://www.ahaber.com.tr/rss/analiz.xml
-https://www.ahaber.com.tr/rss/saglik.xml
-https://www.cnnturk.com/feed/rss/all/news
-https://www.cnnturk.com/feed/rss/turkiye/news
-https://www.cnnturk.com/feed/rss/dunya/news
-https://www.cnnturk.com/feed/rss/kultur-sanat/news
-https://www.cnnturk.com/feed/rss/bilim-teknoloji/news
-https://www.cnnturk.com/feed/rss/yasam/news
-https://www.cnnturk.com/feed/rss/magazin/news
-https://www.cnnturk.com/feed/rss/ekonomi/news
-https://www.cnnturk.com/feed/rss/spor/news
-https://www.cnnturk.com/feed/rss/saglik/news
-https://www.cnnturk.com/feed/rss/otomobil/news
-https://www.cnnturk.com/feed/rss/seyahat/news
-https://www.cnnturk.com/feed/rss/all/video
-https://www.cnnturk.com/feed/rss/turkiye/video
-https://www.cnnturk.com/feed/rss/dunya/video
-https://www.cnnturk.com/feed/rss/kultur-sanat/video
-https://www.cnnturk.com/feed/rss/bilim-teknoloji/video
-https://www.cnnturk.com/feed/rss/yasam/video
-https://www.cnnturk.com/feed/rss/magazin/video
-https://www.cnnturk.com/feed/rss/ekonomi/video
-https://www.cnnturk.com/feed/rss/spor/video
-https://www.cnnturk.com/feed/rss/saglik/video
-https://www.cnnturk.com/feed/rss/otomobil/video
-https://www.cnnturk.com/feed/rss/seyahat/video
-https://www.cnnturk.com/feed/rss/all/gallery
-https://www.cnnturk.com/feed/rss/turkiye/gallery
-https://www.cnnturk.com/feed/rss/dunya/gallery
-https://www.cnnturk.com/feed/rss/kultur-sanat/gallery
-https://www.cnnturk.com/feed/rss/bilim-teknoloji/gallery
-https://www.cnnturk.com/feed/rss/yasam/gallery
-https://www.cnnturk.com/feed/rss/magazin/gallery
-https://www.cnnturk.com/feed/rss/ekonomi/gallery
-https://www.cnnturk.com/feed/rss/spor/gallery
-https://www.cnnturk.com/feed/rss/saglik/gallery
-https://www.cnnturk.com/feed/rss/otomobil/gallery
-https://www.cnnturk.com/feed/rss/seyahat/gallery
-http://www.haberturk.com/rss
-http://www.trthaber.com/sondakika.rss
-http://www.ulusal.com.tr/rss.php
-http://www.acikgazete.com/feed/
-https://www.ajanshaber.com/rss
-http://www.aygazete.com/rss/gundem-haberleri
-http://feeds.bbci.co.uk/turkce/rss.xml
-http://rss.dw.com/rdf/rss-tur-all
-http://www.ensonhaber.com/rss/ensonhaber.xml
-https://www.mynet.com/magazin/rss
-http://sinema.mynet.com/rss/RSS-enyeniler/rss.xml
-http://spor.mynet.com/rss
-http://www.mynet.com/haber/rss/sondakika
-http://www.mynet.com/haber/rss/gununozeti/
-http://www.mynet.com/haber/rss/kategori/politika/
-http://www.mynet.com/haber/rss/kategori/teknoloji/
-http://www.mynet.com/haber/rss/kategori/dunya/
-http://www.mynet.com/haber/rss/kategori/yasam/
-http://www.mynet.com/haber/rss/kategori/magazin/
-http://www.mynet.com/haber/rss/kategori/saglik/
-http://yurthaber.mynet.com/rss/kategori/ana/rss.xml
-https://tr.sputniknews.com/export/rss2/archive/index.xml
-http://www.turkiyehaberajansi.com/rss.xml
-http://www.internethaber.com/rss
-http://www.finansgundem.com/rss
-https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=Haberler
-https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=DuyurularListesi
-https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=MansetListesi
-http://bigpara.hurriyet.com.tr/rss/
+https://www.ntv.com.tr/gundem.rss <br>
+https://www.ntv.com.tr/dunya-kupasi-2018.rss <br>
+https://www.ntv.com.tr/turkiye.rss <br>
+https://www.ntv.com.tr/dunya.rss <br>
+https://www.ntv.com.tr/ekonomi.rss <br>
+https://www.ntv.com.tr/spor.rss <br>
+https://www.ntv.com.tr/teknoloji.rss <br>
+https://www.ntv.com.tr/yasam.rss <br>
+https://www.ntv.com.tr/seyahat.rss <br>
+https://www.ntv.com.tr/saglik.rss <br>
+https://www.ntv.com.tr/sanat.rss <br>
+https://www.ntv.com.tr/otomobil.rss <br>
+https://www.ntv.com.tr/egitim.rss <br>
+https://www.aa.com.tr/tr/rss/default?cat=guncel<br>
+http://www.anayurtgazetesi.com/sondakika.xml <br>
+http://www.cumhuriyet.com.tr/rss/son_dakika.xml <br>
+http://www.cumhuriyet.com.tr/rss/6.xml <br>
+http://www.cumhuriyet.com.tr/rss/17.xml <br>
+http://www.cumhuriyet.com.tr/rss/73.xml <br>
+http://www.cumhuriyet.com.tr/rss/24.xml <br>
+http://www.cumhuriyet.com.tr/rss/32.xml <br>
+http://www.cumhuriyet.com.tr/rss/33.xml <br>
+http://www.cumhuriyet.com.tr/rss/34.xml <br>
+http://www.cumhuriyet.com.tr/rss/35.xml <br>
+http://www.cumhuriyet.com.tr/rss/36.xml <br>
+http://www.cumhuriyet.com.tr/rss/46.xml <br>
+http://www.cumhuriyet.com.tr/rss/70.xml <br>
+http://www.cumhuriyet.com.tr/rss/19.xml <br>
+http://www.cumhuriyet.com.tr/rss/7.xml <br>
+http://www.cumhuriyet.com.tr/rss/14.xml <br>
+http://www.cumhuriyet.com.tr/rss/15.xml <br>
+http://www.cumhuriyet.com.tr/rss/16.xml <br>
+http://www.cumhuriyet.com.tr/rss/20.xml <br>
+http://www.cumhuriyet.com.tr/rss/72.xml <br>
+http://www.cumhuriyet.com.tr/rss/12.xml <br>
+http://www.cumhuriyet.com.tr/rss/3.xml <br>
+http://www.cumhuriyet.com.tr/rss/9.xml <br>
+http://www.cumhuriyet.com.tr/rss/11.xml <br>
+http://www.cumhuriyet.com.tr/rss/10.xml <br>
+https://www.dunya.com/rss?dunya<br>
+http://www.haberturk.com/rss <br>
+http://www.hurriyet.com.tr/rss/anasayfa <br>
+http://www.hurriyet.com.tr/rss/gundem <br>
+http://www.hurriyet.com.tr/rss/ekonomi <br>
+http://www.hurriyet.com.tr/rss/magazin <br>
+http://www.hurriyet.com.tr/rss/spor <br>
+http://www.hurriyet.com.tr/rss/dunya <br>
+http://www.hurriyet.com.tr/rss/teknoloji <br>
+http://www.hurriyet.com.tr/rss/saglik <br>
+http://www.hurriyet.com.tr/rss/astroloji <br>
+http://www.milatgazetesi.com/rss.php <br>
+http://www.milliyet.com.tr/rss/rssNew/magazinRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml <br>	
+http://www.milliyet.com.tr/rss/rssNew/kitapRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/egitimRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/dunyaRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/ekonomiRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/siyasetRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/otomobilRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/teknolojiRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/milliyettatilRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/teknolojiRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/konutemlakRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/aileRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/saglikRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/yemekRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/diyetRss.xml <br>
+http://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml <br>
+ https://www.sabah.com.tr/rss/ekonomi.xml <br>
+https://www.sabah.com.tr/rss/spor.xml <br>
+https://www.sabah.com.tr/rss/gundem.xml <br>
+https://www.sabah.com.tr/rss/yasam.xml <br>
+https://www.sabah.com.tr/rss/dunya.xml <br>
+https://www.sabah.com.tr/rss/teknoloji.xml <br>
+https://www.sabah.com.tr/rss/turizm.xml <br>
+https://www.sabah.com.tr/rss/otomobil.xml <br>
+https://www.sabah.com.tr/rss/anasayfa.xml <br>
+https://www.sabah.com.tr/rss/saglik.xml <br>
+https://www.sabah.com.tr/rss/gununicinden.xml <br>
+https://www.sabah.com.tr/rss/sondakika.xml <br>
+https://www.sabah.com.tr/rss/galatasaray.xml <br>
+https://www.sabah.com.tr/rss/fenerbahce.xml <br>
+https://www.sabah.com.tr/rss/besiktas.xml <br>
+https://www.sabah.com.tr/rss/trabzonspor.xml <br>
+https://www.sabah.com.tr/rss/bursaspor.xml <br>
+https://www.sabah.com.tr/rss/kultur-sanat.xml <br>
+https://www.sabah.com.tr/rss/oyun.xml <br>
+https://www.sabah.com.tr/rss/adana.xml <br>
+http://www.star.com.tr/rss/rss.asp <br>
+http://www.star.com.tr/rss/rss.asp?cid=500 <br>
+http://www.star.com.tr/rss/rss.asp?cid=13 <br>
+http://www.star.com.tr/rss/rss.asp?cid=15 <br>
+http://www.star.com.tr/rss/rss.asp?cid=16 <br>
+http://www.star.com.tr/rss/rss.asp?cid=17 <br>
+http://www.star.com.tr/rss/rss.asp?cid=19 <br>
+http://www.star.com.tr/rss/rss.asp?cid=125 <br>
+http://www.star.com.tr/rss/rss.asp?cid=223 <br>
+http://www.star.com.tr/rss/rss.asp?cid=130 <br>
+http://www.star.com.tr/rss/rss.asp?cid=170 <br>
+https://www.takvim.com.tr/rss/anasayfa.xml <br>
+https://www.takvim.com.tr/rss/son24saat.xml <br>
+https://www.takvim.com.tr/rss/guncel.xml <br>
+https://www.takvim.com.tr/rss/ekonomi.xml <br>
+https://www.takvim.com.tr/rss/otomobil.xml <br>
+https://www.takvim.com.tr/rss/saklambac.xml <br>
+https://www.takvim.com.tr/rss/spor.xml <br>
+https://www.takvim.com.tr/rss/yasam.xml <br>
+https://www.takvim.com.tr/rss/video.xml <br>
+https://www.takvim.com.tr/rss/televizyon.xml <br>
+http://www.turkiyegazetesi.com.tr/rss/rss.xml <br>
+http://mix.chimpfeedr.com/68482-Vatan-Gazetesi <br>
+https://www.yeniakit.com.tr/rss/haber <br>
+https://www.yeniakit.com.tr/rss/haber/ekonomi <br>
+https://www.yeniakit.com.tr/rss/haber/gunun-mansetleri <br>
+https://www.yeniakit.com.tr/rss/haber/bugunku-akit <br>
+https://www.yeniakit.com.tr/rss/haber/ozel-haber <br>
+https://www.yeniakit.com.tr/rss/haber/gundem <br>
+https://www.yeniakit.com.tr/rss/haber/siyaset <br>
+https://www.yeniakit.com.tr/rss/haber/dunya <br>
+https://www.yeniakit.com.tr/rss/haber/teknoloji <br>
+https://www.yeniakit.com.tr/rss/haber/spor <br>
+https://www.yeniakit.com.tr/rss/haber/aktuel <br>
+https://www.yeniakit.com.tr/rss/haber/kultur-sanat <br>
+https://www.yeniakit.com.tr/rss/haber/otomotiv <br>
+https://www.yeniakit.com.tr/rss/haber/emlak <br>
+https://www.yeniakit.com.tr/rss/haber/saglik <br>
+https://www.yeniakit.com.tr/rss/haber/medya <br>
+https://www.yeniakit.com.tr/rss/haber/yasam <br>
+https://www.yeniakit.com.tr/rss/haber/yerel <br>
+https://www.yeniakit.com.tr/rss/haber/egitim <br>
+https://www.yeniakit.com.tr/rss/video/bilim-teknoloji <br>
+https://www.yeniakit.com.tr/rss/video/15temmuz <br>
+https://www.yeniakit.com.tr/rss/video/cocuk-egitim <br>
+https://www.yeniakit.com.tr/rss/video/dunya <br>
+https://www.yeniakit.com.tr/rss/video/ekonomi <br>
+https://www.yeniakit.com.tr/rss/video/emlak-rehberi <br>
+https://www.yeniakit.com.tr/rss/video/gezi <br>
+https://www.yeniakit.com.tr/rss/video/guncel <br>
+https://www.yeniakit.com.tr/rss/video/gundem <br>
+https://www.yeniakit.com.tr/rss/video/hayat-aktuel <br>
+https://www.yeniakit.com.tr/rss/video/islam <br>
+https://www.yeniakit.com.tr/rss/video/kultur-sanat <br>
+https://www.yeniakit.com.tr/rss/video/medya <br>
+https://www.yeniakit.com.tr/rss/video/ramazan <br>
+https://www.yeniakit.com.tr/rss/video/siyaset <br>
+https://www.yeniakit.com.tr/rss/video/spor <br>
+https://www.yeniakit.com.tr/rss/video/trafik-kazalari <br>
+https://www.yeniakit.com.tr/rss/video/turkiye <br>
+https://www.yeniakit.com.tr/rss/video/yasam <br>
+https://www.yeniakit.com.tr/rss/video/yerel <br>
+https://www.yeniasir.com.tr/rss/anasayfa.xml <br>
+http://www.yenimesaj.com.tr/rss.php <br>
+https://www.yenisafak.com/Rss <br>
+www.yenisafak.com/rss?xml=manset <br>
+www.yenisafak.com/rss?xml=gundem <br>
+www.yenisafak.com/rss?xml=spor <br>
+www.yenisafak.com/rss?xml=ekonomi <br>
+www.yenisafak.com/rss?xml=teknoloji <br>
+www.yenisafak.com/rss?xml=hayat <br>
+www.yenisafak.com/rss?xml=dunya <br>
+www.yenisafak.com/rss?xml=yazarlar <br>
+http://www.yurtgazetesi.com.tr/rss.php <br>
+https://www.ahaber.com.tr/rss/anasayfa.xml <br>
+https://www.ahaber.com.tr/rss/gundem.xml <br>
+https://www.ahaber.com.tr/rss/ekonomi.xml <br>
+https://www.ahaber.com.tr/rss/spor.xml <br>
+https://www.ahaber.com.tr/rss/yasam.xml <br>
+https://www.ahaber.com.tr/rss/dunya.xml <br>
+https://www.ahaber.com.tr/rss/son24saat.xml <br>
+https://www.ahaber.com.tr/rss/teknoloji.xml <br>
+https://www.ahaber.com.tr/rss/magazin.xml <br>
+https://www.ahaber.com.tr/rss/otomobil.xml <br>
+https://www.ahaber.com.tr/rss/haberler.xml <br>
+https://www.ahaber.com.tr/rss/din.xml <br>
+https://www.ahaber.com.tr/rss/tarih.xml <br>
+https://www.ahaber.com.tr/rss/analiz.xml <br>
+https://www.ahaber.com.tr/rss/saglik.xml <br>
+https://www.cnnturk.com/feed/rss/all/news <br>
+https://www.cnnturk.com/feed/rss/turkiye/news <br>
+https://www.cnnturk.com/feed/rss/dunya/news <br>
+https://www.cnnturk.com/feed/rss/kultur-sanat/news <br>
+https://www.cnnturk.com/feed/rss/bilim-teknoloji/news <br>
+https://www.cnnturk.com/feed/rss/yasam/news <br>
+https://www.cnnturk.com/feed/rss/magazin/news <br>
+https://www.cnnturk.com/feed/rss/ekonomi/news <br>
+https://www.cnnturk.com/feed/rss/spor/news <br>
+https://www.cnnturk.com/feed/rss/saglik/news <br>
+https://www.cnnturk.com/feed/rss/otomobil/news <br>
+https://www.cnnturk.com/feed/rss/seyahat/news <br>
+https://www.cnnturk.com/feed/rss/all/video <br>
+https://www.cnnturk.com/feed/rss/turkiye/video <br>
+https://www.cnnturk.com/feed/rss/dunya/video <br>
+https://www.cnnturk.com/feed/rss/kultur-sanat/video <br>
+https://www.cnnturk.com/feed/rss/bilim-teknoloji/video <br>
+https://www.cnnturk.com/feed/rss/yasam/video <br>
+https://www.cnnturk.com/feed/rss/magazin/video <br>
+https://www.cnnturk.com/feed/rss/ekonomi/video <br>
+https://www.cnnturk.com/feed/rss/spor/video <br>
+https://www.cnnturk.com/feed/rss/saglik/video <br>
+https://www.cnnturk.com/feed/rss/otomobil/video <br>
+https://www.cnnturk.com/feed/rss/seyahat/video <br>
+https://www.cnnturk.com/feed/rss/all/gallery <br>
+https://www.cnnturk.com/feed/rss/turkiye/gallery <br>
+https://www.cnnturk.com/feed/rss/dunya/gallery <br>
+https://www.cnnturk.com/feed/rss/kultur-sanat/gallery <br>
+https://www.cnnturk.com/feed/rss/bilim-teknoloji/gallery <br>
+https://www.cnnturk.com/feed/rss/yasam/gallery <br>
+https://www.cnnturk.com/feed/rss/magazin/gallery <br>
+https://www.cnnturk.com/feed/rss/ekonomi/gallery <br>
+https://www.cnnturk.com/feed/rss/spor/gallery <br>
+https://www.cnnturk.com/feed/rss/saglik/gallery <br>
+https://www.cnnturk.com/feed/rss/otomobil/gallery <br>
+https://www.cnnturk.com/feed/rss/seyahat/gallery <br>
+http://www.haberturk.com/rss <br>
+http://www.trthaber.com/sondakika.rss <br>
+http://www.ulusal.com.tr/rss.php <br>
+http://www.acikgazete.com/feed/ <br>
+https://www.ajanshaber.com/rss <br>
+http://www.aygazete.com/rss/gundem-haberleri <br>
+http://feeds.bbci.co.uk/turkce/rss.xml <br>
+http://rss.dw.com/rdf/rss-tur-all <br>
+http://www.ensonhaber.com/rss/ensonhaber.xml <br>
+https://www.mynet.com/magazin/rss <br>
+http://sinema.mynet.com/rss/RSS-enyeniler/rss.xml <br>
+http://spor.mynet.com/rss <br>
+http://www.mynet.com/haber/rss/sondakika <br>
+http://www.mynet.com/haber/rss/gununozeti/ <br>
+http://www.mynet.com/haber/rss/kategori/politika/ <br>
+http://www.mynet.com/haber/rss/kategori/teknoloji/ <br>
+http://www.mynet.com/haber/rss/kategori/dunya/ <br>
+http://www.mynet.com/haber/rss/kategori/yasam/ <br>
+http://www.mynet.com/haber/rss/kategori/magazin/ <br>
+http://www.mynet.com/haber/rss/kategori/saglik/ <br>
+http://yurthaber.mynet.com/rss/kategori/ana/rss.xml <br>
+https://tr.sputniknews.com/export/rss2/archive/index.xml <br>
+http://www.turkiyehaberajansi.com/rss.xml <br>
+http://www.internethaber.com/rss <br>
+http://www.finansgundem.com/rss <br>
+https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=Haberler <br>
+https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=DuyurularListesi <br>
+https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=MansetListesi <br>
+http://bigpara.hurriyet.com.tr/rss/ <br>
