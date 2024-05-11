@@ -1,7 +1,7 @@
 # rssadressler
 Haber Sitelerinin Güncel RSS Adresleri
 
-https://www.ntv.com.tr/gundem.rss
+https://www.ntv.com.tr/gundem.rss<br>
 https://www.ntv.com.tr/dunya-kupasi-2018.rss
 https://www.ntv.com.tr/turkiye.rss
 https://www.ntv.com.tr/dunya.rss
